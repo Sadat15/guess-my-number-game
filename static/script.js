@@ -49,7 +49,7 @@ document.querySelector(".again").addEventListener("click", function () {
   score = 20;
   document.querySelector(".score").textContent = score;
 
-  document.querySelector("body").style.backgroundColor = "#333";
+  document.querySelector("body").style.backgroundColor = "#212221";
 
   document.querySelector(".guess").value = "";
 
